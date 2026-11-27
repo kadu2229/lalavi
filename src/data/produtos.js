@@ -201,5 +201,33 @@ export const produtos = [
     imagem: "https://i.ibb.co/h1CkxHWk/Whats-App-Image-2026-11-27-at-19-44-54.jpg",
     descricao: "kit de enfeites natalinos, itens tambem vendidos separadamente",
     valor: 55.00,
+  },
+  {
+    id: 31,
+    nome: "Zoro de one piece",
+    imagem: "https://i.ibb.co/Z1WPz6FK/Whats-App-Image-2026-11-27-at-19-44-50.jpg",
+    descricao: "miniatura de zoro de one piece",
+    valor: 120.00,
+  },
+  {
+    id: 32,
+    nome: "Nami de one piece",
+    imagem: "https://i.ibb.co/ksRzyqBw/Whats-App-Image-2026-11-27-at-19-44-48.jpg",
+    descricao: "miniatura de nami de one piece",
+    valor: 120.00,
+  },
+  {
+    id: 33,
+    nome: "Luffy de one piece",
+    imagem: "https://i.ibb.co/TMtch29T/Whats-App-Image-2026-11-27-at-19-44-43.jpg",
+    descricao: "miniatura de luffy de one piece",
+    valor: 120.00,
+  },
+  {
+    id: 34,
+    nome: "Sanji de one piece",
+    imagem: "https://i.ibb.co/2718CMWr/Whats-App-Image-2026-11-27-at-19-44-29.jpg",
+    descricao: "miniatura de sanji de one piece",
+    valor: 120.00,
   }
 ];
