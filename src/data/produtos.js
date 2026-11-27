@@ -129,7 +129,7 @@ export const produtos = [
     id: 19,
     nome: "Petisqueira",
     imagem: "https://i.ibb.co/nMk5wjYX/Whats-App-Image-2026-11-27-at-19-45-23.jpg",
-    descricao: "pestisqueira com 3 divisorias",
+    descricao: "6 unidades de petisqueira",
     valor: 40.00,
   },
   {
@@ -229,5 +229,12 @@ export const produtos = [
     imagem: "https://i.ibb.co/2718CMWr/Whats-App-Image-2026-11-27-at-19-44-29.jpg",
     descricao: "miniatura de sanji de one piece",
     valor: 120.00,
+  },
+  {
+    id: 35,
+    nome: "4 membros do bando de luffy",
+    imagem: "https://i.ibb.co/SSt1dWg/Whats-App-Image-2026-11-27-at-19-44-25.jpg",
+    descricao: "Nami, Luffy, Zoro e Sanji de one piece, tambem vendidos separadamente",
+    valor: 400.00,
   }
 ];
