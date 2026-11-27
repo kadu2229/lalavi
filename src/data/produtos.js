@@ -187,5 +187,19 @@ export const produtos = [
     imagem: "https://i.ibb.co/MDWhhsFt/Whats-App-Image-2026-11-27-at-19-45-15.jpg",
     descricao: "kit de enfeites natalinos, itens tambem vendidos separadamente",
     valor: 70.00,
+  },
+  {
+    id: 29,
+    nome: "Enfeite natalino",
+    imagem: "https://i.ibb.co/Q72CZm98/Whats-App-Image-2026-11-27-at-19-45-12.jpg",
+    descricao: "kit de enfeites natalinos, itens tambem vendidos separadamente",
+    valor: 40.00,
+  },
+  {
+    id: 30,
+    nome: "Enfeite natalino",
+    imagem: "https://i.ibb.co/h1CkxHWk/Whats-App-Image-2026-11-27-at-19-44-54.jpg",
+    descricao: "kit de enfeites natalinos, itens tambem vendidos separadamente",
+    valor: 55.00,
   }
 ];
