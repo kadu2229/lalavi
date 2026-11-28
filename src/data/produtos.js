@@ -232,8 +232,8 @@ export const produtos = [
   },
   {
     id: 35,
-    nome: "4 membros do bando de luffy",
-    imagem: "https://i.ibb.co/SSt1dWg/Whats-App-Image-2026-11-27-at-19-44-25.jpg",
+    nome: "4 membros dos chapéus de palha",
+    imagem: "https://i.ibb.co/fVmxbnQ1/Whats-App-Image-2026-11-27-at-19-44-25.jpg",
     descricao: "Nami, Luffy, Zoro e Sanji de one piece, tambem vendidos separadamente",
     valor: 400.00,
   },
