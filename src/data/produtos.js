@@ -134,7 +134,7 @@ export const produtos = [
   },
   {
     id: 20,
-    nome: "Anjinjo",
+    nome: "Anjinho",
     imagem: "https://i.ibb.co/6RPFXSTC/Whats-App-Image-2026-11-27-at-19-45-23-1.jpg",
     descricao: "enfeite natalino de anjinjo",
     valor: 20.00,
