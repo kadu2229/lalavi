@@ -292,5 +292,19 @@ export const produtos = [
     imagem: "https://i.ibb.co/Z6swnXRq/Whats-App-Image-2026-11-27-at-19-43-18.jpg",
     descricao: "15 reais cada unidade",
     valor: 15.00,
+  },
+  {
+    id: 44,
+    nome: "Enfeite natalino",
+    imagem: "https://i.ibb.co/5WYRM7k0/Whats-App-Image-2026-11-27-at-20-32-00-1.jpg",
+    descricao: "presepio completo, tambem vendidos separadamente",
+    valor: 230.00,
+  },
+  {
+    id: 45,
+    nome: "Enfeite natalino",
+    imagem: "https://i.ibb.co/PsHdCp4k/Whats-App-Image-2026-11-27-at-20-32-00.jpg",
+    descricao: "itens tambem podem ser vendidos separadamente",
+    valor: 60.00,
   }
 ];
