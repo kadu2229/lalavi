@@ -141,7 +141,7 @@ export const produtos = [
   },
   {
     id: 21,
-    nome: "Boneco de neve suspenso",
+    nome: "Luminária boneco de neve suspenso",
     imagem: "https://i.ibb.co/tMvw4yxG/Whats-App-Image-2026-11-27-at-19-45-21.jpg",
     descricao: "enfeite natalino de boneco de neve suspenso",
     valor: 35.00,
