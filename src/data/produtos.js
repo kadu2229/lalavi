@@ -285,5 +285,12 @@ export const produtos = [
     imagem: "https://i.ibb.co/xqVqZmpT/Whats-App-Image-2026-11-27-at-19-43-17.jpg",
     descricao: "pacote com 6 enfeites natalinos, tambem vendidos separadamente",
     valor: 30.00,
+  },
+  {
+    id: 43,
+    nome: "Enfeite natalino",
+    imagem: "https://i.ibb.co/Z6swnXRq/Whats-App-Image-2026-11-27-at-19-43-18.jpg",
+    descricao: "15 reais cada unidade",
+    valor: 15.00,
   }
 ];
