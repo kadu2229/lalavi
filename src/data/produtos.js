@@ -176,14 +176,14 @@ export const produtos = [
   },
   {
     id: 27,
-    nome: "3 renas + bandeja de natal",
+    nome: "3 renas + bandeja",
     imagem: "https://i.ibb.co/jPT6MfDS/Whats-App-Image-2026-11-27-at-19-45-16.jpg",
     descricao: "kit de enfeites natalinos, itens tambem vendidos separadamente",
     valor: 40.00,
   },
   {
     id: 28,
-    nome: "3 renas + bandeja de natal + castiçal + feliz natal",
+    nome: "3 renas + bandeja + castiçal + feliz natal",
     imagem: "https://i.ibb.co/MDWhhsFt/Whats-App-Image-2026-11-27-at-19-45-15.jpg",
     descricao: "kit de enfeites natalinos, itens tambem vendidos separadamente",
     valor: 70.00,
@@ -197,7 +197,7 @@ export const produtos = [
   },
   {
     id: 30,
-    nome: "Noel + biscoito + mini arvore + bandeja de natal",
+    nome: "Noel + biscoito + mini arvore + bandeja",
     imagem: "https://i.ibb.co/h1CkxHWk/Whats-App-Image-2026-11-27-at-19-44-54.jpg",
     descricao: "kit de enfeites natalinos, itens tambem vendidos separadamente",
     valor: 55.00,
